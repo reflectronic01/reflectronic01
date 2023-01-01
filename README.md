@@ -3,12 +3,12 @@
 ### Glad to see you here!  
 It's me! You often find me using the names reflectronic, when I am somewhere around in the internet (Except here for no reason). My passion is programming and I am very interested in developing and releasing new software. All my work here on GitHub is open source because I think it's important to share knowledge and skills. My preferred programming language is C#. Like almost everyone, I want to do more things than I have time for. Since I wrote my first line of code, programming has become my favorite hobby and I want to do it professionally soon. I have no doubts and no regrets that I took this path so early.  
 
-## Contact  
+## 📝Contact  
 - 🖥️ See my portfolio at (WIP)  
 - ✉️ You can contact me at (WIP)   
 - ☎️ You can also contact me via Discord (reflectronic#5281)  
 
-## My Dev Statistics
+## ⚡My Dev Statistics
 <div align="left"> 
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=reflectronic01&show_icons=true&hide_border=true" />
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reflectronic01&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
