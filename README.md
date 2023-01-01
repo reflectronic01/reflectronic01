@@ -11,7 +11,7 @@ It's me! You often find me using the names reflectronic, when I am somewhere aro
 ## My Dev Statistics
 <div align="left"> 
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=reflectronic01&show_icons=true&hide_border=true" />
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reflectronic01&show_icons=true&hide_border=true&layout=compact&langs_count=4"/
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reflectronic01&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
 </div>
 
 ## Languages and Tools  
